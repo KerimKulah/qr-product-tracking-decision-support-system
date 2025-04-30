@@ -11,7 +11,11 @@
 QR Kodlu Ürün(Depo) Takip ve Karar Destek Sistemi, depo ortamlarında ürünlerin etkili bir şekilde yönetilmesi, izlenmesi ve güncellenmesi amacıyla geliştirilmiş bir yazılımdır. 
 Mobil cihazlar aracılığıyla QR kodlarının okutulabilmesi ve ürün bilgilerine erişim sağlanabilmesi, stokların güncellenmesi ve web üzerinden ürünlerin yönetilmesi üzerine kuruludur.
 
-[![Proje Tanıtım Videosu](https://img.youtube.com/vi/z8cIawC7Ih8/0.jpg)](https://www.youtube.com/watch?v=z8cIawC7Ih8)
+## 🎥 Proje Tanıtım Videosu
+
+[![Proje Tanıtım Videosunu İzle](https://img.youtube.com/vi/z8cIawC7Ih8/0.jpg)](https://www.youtube.com/watch?v=z8cIawC7Ih8)
+
+🔗 [YouTube'da izle](https://www.youtube.com/watch?v=z8cIawC7Ih8)
 
 ## 2. Kullanılan Teknolojiler
 - **Java 21 (JDK 21)**: Uygulamanın temel programlama dili; nesne yönelimli programlama, çoklu iş parçacığı ve koleksiyonlar gibi kavramları destekler.
